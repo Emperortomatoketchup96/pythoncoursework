@@ -1,0 +1,1 @@
+This program is practicing with numerical variables, strings (among them, f-strings which is new for me), and Boolean expressions. 
